@@ -13,6 +13,8 @@ sites:
     url: https://jeopardy.bentleyherron.dev
   - name: Jeopardy API
     url: https://jeopardy-api.bentleyherron.dev
+  - name: Jeopardy API Docs
+    url: https://jeopardy-api.bentleyherron.dev
   - name: Matchga.me
     url: https://matchga.me
   - name: Matchga.me API
