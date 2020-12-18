@@ -13,7 +13,7 @@ sites:
   - name: Matchga.me
     url: https://matchga.me
   - name: Matchga.me API
-    url: https://api.matchga.me
+    url: $MATCHGAME_URL
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
