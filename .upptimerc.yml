@@ -2,6 +2,9 @@
 owner: bentleyherron # Your GitHub username
 repo: uptime # Your Github repository name
 
+assignees:
+  - bentleyherron
+
 # Add your sites here
 sites:
   - name: Personal Website
