@@ -1,7 +1,7 @@
-url: $MATCHGAME_URL  
+url: $MATCHGAME_URL
 status: up
 code: 200
-responseTime: 234
-lastUpdated: 2021-01-05T23:30:15.600Z
+responseTime: 145
+lastUpdated: 2021-01-06T23:31:23.157Z
 startTime: Fri Dec 18 2020 22:09:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
